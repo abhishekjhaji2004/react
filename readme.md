@@ -3,7 +3,7 @@ Notes for maintaining this document:
 
 *   Update the link for `cm-html` once in a while
 -->
-
+#hero
 # react-markdown
 
 [![Build][build-badge]][build]
